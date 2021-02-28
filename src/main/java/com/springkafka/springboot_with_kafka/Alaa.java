@@ -1,7 +1,7 @@
 package com.springkafka.springboot_with_kafka;
 
 public class Alaa {
-    public void add(){
+    public void add(int i){
         return;
     }
 }
